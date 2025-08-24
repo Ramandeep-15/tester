@@ -1,4 +1,4 @@
 # tester
-to test and experiment 
+To test and experiment 
 <br>
-learn by practicing
+Learn by practicing :)
